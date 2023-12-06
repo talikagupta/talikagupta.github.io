@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Coreference in Long Documents using Hierarchical Entity Merging"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: Under Review
+venue: 'SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL), 2024.'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Talika Gupta, Hans Ole Hatzel, Chris Biemann, “Coreference in Long Documents using Hierarchical Entity Merging”, SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL), 2024.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Current top-performing coreference resolution approaches are limited with regard to the maximum lengths of texts they can accept. We explore a recursive merging technique of entities that allows us to apply coreference models to texts of arbitrary length. In experiments on established datasets we quantify the drop in resolution quality caused by this approach. Finally we use an under-explored resource in the form of a fully coreference annotated novel to illustrate our models performance for long documents in practice. On this novel we achieve state-of-the-art performance, outperforming previous systems capable of handling long documents.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
