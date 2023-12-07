@@ -3,14 +3,25 @@ title: "Hybrid Approach to Twin-width by Taming Red (HATTER): A heuristic solver
 collection: publications
 under_review: true
 permalink: 
-excerpt: ''
+excerpt: 'Twin-width was introduced by Bonnet et al. [4] in 2020. The
+graph parameter twin-width intuitively measures the distance of a graph
+to a co-graph. In this paper, we propose “Hybrid Approach to twin-width
+by Taming Red (HATTER)”, a novel heuristic solver for computing the
+twin − width of an undirected graph. The solver can be accessed through
+this link1. We use preprocessing and divide-and-conquer techniques in
+HATTER. In the preprocessing phase, we first apply a reduction tech-
+nique on the degree one vertices of the input graph based on some prop-
+erty. Later, we decompose the preprocessed graph into several compo-
+nents and compute the contraction sequence for each of these components
+independently. Finally, we identify vertices until the graph is reduced to
+a single vertex.'
 date: 2024-10-01
 venue: 'Latin American Theoretical Informatics (LATIN)'
 paperurl: ''
 citation: 'Talika Gupta, Srinibas Swain, “Hybrid Approach to Twin-width by Taming Red (HATTER): A heuristic solver for finding twin-width of an undirected graph”, Latin American Theoretical Informatics (LATIN), 2024'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Twin-width was introduced by Bonnet et al. [4] in 2020. The graph parameter twin-width intuitively measures the distance of a graph to a co-graph. In this paper, we propose “Hybrid Approach to twin-width by Taming Red (HATTER)”, a novel heuristic solver for computing the twin width of an undirected graph. The solver can be accessed through this link1. We use preprocessing and divide-and-conquer techniques in HATTER. In the preprocessing phase, we first apply a reduction technique on the degree one vertices of the input graph based on some property. Later, we decompose the preprocessed graph into several components and compute the contraction sequence for each of these components independently. Finally, we identify vertices until the graph is reduced to a single vertex.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+Currently Under Review.
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Talika Gupta, Srinibas Swain, “Hybrid Approach to Twin-width by Taming Red (HATTER): A heuristic solver for finding twin-width of an undirected graph”, Latin American Theoretical Informatics (LATIN), 2024.
